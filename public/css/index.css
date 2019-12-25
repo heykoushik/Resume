@@ -8,7 +8,7 @@ div
     z-index: 1;
     height:40px;
     width: 98%;
-    background-color: #668284;
+    background-color:warning;
     margin-bottom: 10px
     }
 
@@ -52,7 +52,7 @@ a:hover {
     margin-left: 14%;*/
     height: auto;
     width: 99%;
-    background-color: #E3EDD8;
+    background-color: primary;
     }
 
 /*.left
